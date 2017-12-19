@@ -1,2 +1,2 @@
-# ganancias2017
-Calculadora de Ganancias 2017
+# ganancias2018
+Calculadora de Ganancias 2018
