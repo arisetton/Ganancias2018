@@ -47,9 +47,9 @@ $(document).ready(function() {
         })
     })
 });
-var topesEscalas = [2e4, 4e4, 6e4, 8e4, 12e4, 16e4, 24e4, 32e4, 99999999],
+var topesEscalas = [25800, 51600, 77400, 103200, 154800, 206400, 309600, 412800, 99999999],
     porcentajesEscalas = [.05, .09, .12, .15, .19, .23, .27, .31, .35],
-    fijosEscalas = [1e3, 1800, 2400, 3e3, 7600, 9200, 21600, 24800], 
+    fijosEscalas = [1290, 3612, 6708, 10578, 20382, 32250, 60114, 92106], 
     MINIMO_NO_IMPONIBLE = 66917.91,
     ADICIONAL_4TA_CATEGORIA = 321205.968,
     CONYUGE = 62385.2,
